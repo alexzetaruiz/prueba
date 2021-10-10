@@ -2,3 +2,6 @@ hola
 
 alex
 ruiz
+
+28
+edad
